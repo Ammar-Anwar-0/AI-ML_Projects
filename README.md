@@ -21,3 +21,6 @@ This will be uploaded in a few days as it is the first AI project I worked on an
 
 ## Project 6: Unit Test Cases Generation using Large Language Models
 This will be uploaded later.
+
+## Project 7: Signature Recognizer using CNN
+This will take some time as I have done all my work on 2 notebooks and both exceed 25 MBs by lieu of being 75 and 320 MB respectively... 
