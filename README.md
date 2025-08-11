@@ -20,7 +20,7 @@ This will be uploaded in a few days as it is the first AI project I worked on an
 [Black and White Images Colorization](https://github.com/Ammar-Anwar-0/Colorization_of_Black-White_Images)
 
 ## Project 6: Unit Test Cases Generation using Large Language Models
-This will be uploaded later.
+This will be uploaded later... much later.
 
-## Project 7: Signature Recognizer using CNN
-This will take some time as I have done all my work on 2 notebooks and both exceed 25 MBs by lieu of being 75 and 320 MB respectively... 
+## Project 7: RAG Chatbot
+[AWS Service Catalog RAG Chatbot](https://github.com/Ammar-Anwar-0/RAG_ChatBot)
