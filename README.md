@@ -3,6 +3,7 @@ A repository for keeping track of all my AI/ML projects that I have committed he
 
 ## Project 0: Aircraft Route Optimization System
 This will be uploaded in a few days as it is the first AI project I worked on and its been a few years. I can't seem to find it... so a few days...
+Update: When I find it.
 
 ## Project 1: Work Prediction Using LSTM
 [Word Completion Using LSTM](https://github.com/Ammar-Anwar-0/WordCompletionUsingLSTM)
